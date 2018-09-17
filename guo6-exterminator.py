@@ -8,7 +8,7 @@ from discord.ext.commands import Bot
 from discord.ext import commands
 
 client = discord.Client()
-guo6_id = 135680632402608128
+guo6_id = 231150822367428608
 TOKEN = 'NDkwODM1MDk0ODA2ODU1NzAy.Dn_Rug.6QqSZvAym3MQw-ZrgnDbh8i8nKI'
 
 async def guo6_exterminator(context):
